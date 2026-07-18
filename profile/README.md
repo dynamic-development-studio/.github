@@ -3,19 +3,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-RedM-red?style=for-the-badge&logo=redhat" alt="RedM">
   <img src="https://img.shields.io/badge/Framework-RSG--Core-orange?style=for-the-badge" alt="RSG-Core">
-  <img src="https://img.shields.io/badge/Framework-TPZ--Core-purple?style=for-the-badge" alt="TPZ-Core">
-  <img src="https://img.shields.io/badge/Framework-VORP-darkred?style=for-the-badge" alt="VORP">
   <img src="https://img.shields.io/badge/Language-Lua-blue?style=for-the-badge&logo=lua" alt="Lua">
   <img src="https://img.shields.io/badge/Optimization-0.00ms-brightgreen?style=for-the-badge" alt="Optimization">
 </p>
 
 ---
 
-We are a professional game development studio specializing in high-performance scripts, custom frameworks, and optimized solutions for the Cfx.re ecosystem.
+We are a newly established game development studio with a primary and heavy focus on the RedM ecosystem. Our passion drives us to build high-performance scripts, custom frameworks, and optimized solutions that bring Wild West servers to life.
 
-🎯 **Our Current Focus:** We are currently **100% focused on RedM**, developing premium resources exclusively built and optimized for the **RSG-Core**, **TPZ-Core**, and **VORP** frameworks. Our mission is to deliver heavily optimized, plug-and-play resources that elevate the Wild West roleplay experience.
+🎯 **Our Current Focus:** As a growing team, we are currently specializing in premium resources built exclusively for the **RSG-Core** framework. Every script is tailored to ensure plug-and-play functionality and deep immersion.
 
-🚀 **Future Roadmap:** While our current priority is RedM ecosystem and its core frameworks, we plan to expand our services in the future to support other platforms, including FiveM solutions.
+🚀 **What's Coming Soon:** We are constantly expanding! Very soon, we will be rolling out full support for additional major RedM frameworks, including **TPZ-Core** and **VORP**, as well as future FiveM solutions.
 
 🛒 **Visit our official store:** [Dynamic Development Tebex](https://dynamic-development.tebex.io/)
 
@@ -23,15 +21,15 @@ We are a professional game development studio specializing in high-performance s
 
 ## 🛠️ Our Expertise
 
-* **RedM Ecosystem (RSG, TPZ & VORP):** Advanced Wild West mechanics, immersive interaction systems, robust economies, and dedicated resources built specifically for modern RedM architectures.
-* **Performance First:** Every script we build is written with active resource monitoring in mind (0.00ms idle/active optimization) to ensure maximum server FPS.
-* **Clean Codebase:** Highly organized code structure, making it easy for server owners to configure and adapt to their needs.
-* **Dedicated Support:** We stand behind our products with reliable customer support to assist with integration and queries.
+* **RedM & RSG-Core Specialists:** Advanced Wild West mechanics, immersive interaction systems, and robust economies built perfectly for the RSG-Core architecture.
+* **Performance First:** Every script we build is written with active resource monitoring in mind (0.00ms idle/active optimization) to guarantee maximum server FPS and stability.
+* **Clean Codebase:** Highly organized code structure, making it easy for server owners to configure, translate, and adapt to their needs.
+* **Dedicated Support:** We stand firmly behind our products with reliable customer support to assist you with integration and troubleshooting.
 
 ---
 
 ## 📈 Featured Projects
-*Keep an eye on this space for our open-source tools, documentation, and free community resources!*
+*Keep an eye on this space for our upcoming open-source tools, documentation, and free community resources!*
 
 ---
 
